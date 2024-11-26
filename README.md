@@ -1,4 +1,4 @@
-# Solana-Raydium-Bundler
+# Solana Raydium Bundler buying tokens from 21 wallets in on JITO Bundle
 
 ## Contact Info
 
@@ -11,15 +11,23 @@ You can always feel free to find me here for my help on other projects.
 https://explorer.jito.wtf/bundle/19ad00b4525d00d3a4f888e1b8201f37dcdf385379d743e1a7c754147c056efa
 
 ## Features
-
-- Automated token delivery once solana token is launched
-- Buy token with 21 wallets
+- Token Creation
+- Genearte 21 wallets and distribute SOL to every buy wallet
+- Create ATA in every wallet
+- Create market
+- Remove mintAuthority and freezeAuthority
+- Create Lookuptable and store accounts there in advance to be used
+- Simulate pool creation + bundle buys before token launch
+- Pool Creation & bundle buys in one bundle
+- Sell tokens manually or automatically
+- Remove liquidity
+- Gather sol from every wallet to main wallet
 
 ## Usage
 1. Clone the repository
 ```
 git clone https://github.com/sol-magic/Solana-Raydium-Bundler
-cd solana-ido-presale-smart-contract
+cd Solana-Raydium-Bundler
 ```
 2. Install dependencies
 ```
