@@ -7,10 +7,13 @@ Discord: web3_wiza
 
 You can always feel free to find me here for my help on other projects.
 
+## Example transaction
+https://explorer.jito.wtf/bundle/19ad00b4525d00d3a4f888e1b8201f37dcdf385379d743e1a7c754147c056efa
+
 ## Features
 
 - Automated token delivery once solana token is launched
-- Vesting and unlocking
+- Buy token with 21 wallets
 
 ## Usage
 1. Clone the repository
