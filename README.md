@@ -11,8 +11,8 @@ For assistance on this and future projects, feel free to reach out:
 
 You can view example transactions executed by the bundler at the following links:
 
-- [Example 1](https://explorer.jito.wtf/bundle/19ad00b4525d00d3a4f888e1b8201f37dcdf385379d743e1a7c754147c056efa)
-- [Example 2](https://explorer.jito.wtf/bundle/ccd2498df58df531125739574cfb9d8897703e456ff7a45da4c25ebc52f45e18)
+- https://explorer.jito.wtf/bundle/19ad00b4525d00d3a4f888e1b8201f37dcdf385379d743e1a7c754147c056efa
+- https://explorer.jito.wtf/bundle/ccd2498df58df531125739574cfb9d8897703e456ff7a45da4c25ebc52f45e18
 
 ## Features
 
