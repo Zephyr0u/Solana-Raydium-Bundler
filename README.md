@@ -1,44 +1,40 @@
-# Solana Raydium Bundler buying tokens from 21 wallets in on JITO Bundle
+# Solana Raydium Bundler: Multi-Wallet Token Purchase via JITO Bundle
 
-## Contact Info
+## Contact Information
 
-Telegram: @web3wiza
-Discord: web3_wiza
+For assistance on this and future projects, feel free to reach out:
 
-You can always feel free to find me here for my help on other projects.
+- **Telegram**: [@web3wiza](https://t.me/web3wiza)
+- **Discord**: web3_wiza
 
-## Example transaction
-https://explorer.jito.wtf/bundle/19ad00b4525d00d3a4f888e1b8201f37dcdf385379d743e1a7c754147c056efa
-https://explorer.jito.wtf/bundle/ccd2498df58df531125739574cfb9d8897703e456ff7a45da4c25ebc52f45e18
+## Example Transactions
+
+You can view example transactions executed by the bundler at the following links:
+
+- [Example 1](https://explorer.jito.wtf/bundle/19ad00b4525d00d3a4f888e1b8201f37dcdf385379d743e1a7c754147c056efa)
+- [Example 2](https://explorer.jito.wtf/bundle/ccd2498df58df531125739574cfb9d8897703e456ff7a45da4c25ebc52f45e18)
 
 ## Features
-- Token Creation
-- Genearte 21 wallets and distribute SOL to every buy wallet
-- Create ATA in every wallet
-- Create market
-- Remove mintAuthority and freezeAuthority
-- Create Lookuptable and store accounts there in advance to be used
-- Simulate pool creation + bundle buys before token launch
-- Pool Creation & bundle buys in one bundle
-- Sell tokens manually or automatically
-- Remove liquidity
-- Gather sol from every wallet to main wallet
 
-## Usage
-1. Clone the repository
-```
-git clone https://github.com/sol-magic/Solana-Raydium-Bundler
-cd Solana-Raydium-Bundler
-```
-2. Install dependencies
-```
-npm install
-```
-3. Configure the environment variables
+The Solana Raydium Bundler offers a comprehensive set of features designed for efficient token management:
 
-<!-- Rename the .env.copy file to .env and set RPC and WSS, main wallet's secret key, and jito auth keypair. -->
+- **Token Creation**: Easily create new tokens on the Solana blockchain.
+- **Multi-Wallet Generation**: Automatically generate 21 wallets and fund each with SOL for transactions.
+- **Associated Token Account (ATA) Creation**: Create an ATA for every wallet to store tokens seamlessly.
+- **Market Creation**: Establish a market for trading tokens.
+- **Authority Management**: Remove mint authority and freeze authority from newly created tokens.
+- **Lookup Table Creation**: Create a lookup table and pre-store accounts for future use.
+- **Simulated Pool Creation**: Simulate pool creation and bundle purchases prior to the official token launch.
+- **Bundled Transactions**: Execute pool creation and token purchases within a single bundled transaction.
+- **Manual or Automated Selling**: Facilitate the manual or automatic sale of tokens.
+- **Liquidity Management**: Remove liquidity from pools efficiently.
+- **Balance Aggregation**: Gather SOL from all wallets and consolidate in the main wallet.
 
-4. Run the bot
+## Installation and Usage
 
-```
-npm run start
+Follow these steps to set up and run the Solana Raydium Bundler:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/sol-magic/Solana-Raydium-Bundler
+   cd Solana-Raydium-Bundler
