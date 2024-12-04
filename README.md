@@ -1,4 +1,4 @@
-# Solana Raydium Bundler: Multi-Wallet Token Purchase via JITO Bundle
+# Solana Raydium Bundler: Multi-Wallet Token Purchase via JITO Bundle with 21 Wallets
 
 ## Contact Information
 
