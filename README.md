@@ -39,4 +39,4 @@ Follow these steps to set up and run the Solana Raydium Bundler:
    cd Solana-Raydium-Bundler
 
 ## Tip
-I am always looking for ways to make my script run faster. Could you please send me some tips to this address? **4tbodFZaz6tH1PmZ1ujY3s85dxzUugRjS7ZwR5hnMCPZ** Your help would be greatly appreciated for my future development.****
+I am always looking for ways to make my script run faster. Could you please send me some tips to this address? **4tbodFZaz6tH1PmZ1ujY3s85dxzUugRjS7ZwR5hnMCPZ** Your help would be greatly appreciated for my future development.
