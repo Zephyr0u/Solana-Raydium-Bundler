@@ -28,6 +28,17 @@ The Solana Raydium Bundler offers a comprehensive set of features designed for e
 - **Manual or Automated Selling**: Facilitate the manual or automatic sale of tokens.
 - **Liquidity Management**: Remove liquidity from pools efficiently.
 - **Balance Aggregation**: Gather SOL from all wallets and consolidate in the main wallet.
+- Token Creation: Easily create new tokens on the Solana blockchain.
+Multi-Wallet Generation: Automatically generate 21 wallets and fund each with SOL for transactions.
+Associated Token Account (ATA) Creation: Create an ATA for every wallet to store tokens seamlessly.
+Market Creation: Establish a market for trading tokens.
+Authority Management: Remove mint authority and freeze authority from newly created tokens.
+Lookup Table Creation: Create a lookup table and pre-store accounts for future use.
+Simulated Pool Creation: Simulate pool creation and bundle purchases prior to the official token launch.
+Bundled Transactions: Execute pool creation and token purchases within a single bundled transaction.
+Manual or Automated Selling: Facilitate the manual or automatic sale of tokens.
+Liquidity Management: Remove liquidity from pools efficiently.
+Balance Aggregation: Gather SOL from all wallets and consolidate in the main wallet.
 
 ## Installation and Usage
 
